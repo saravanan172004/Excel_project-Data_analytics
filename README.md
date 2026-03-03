@@ -100,7 +100,7 @@ The primary goals of this analysis are to:
 
 ---
 
-![Salary Analysis](https://github.com/saravanan172004/Excel_project-Data_analytics/blob/396f80750102d939d954a4e3d76e5c2fa5c45e5d/1_Salary_Dashboard.png)
+![Salary Analysis](https://github.com/saravanan172004/Excel_project-Data_analytics/blob/2f99db1348aa6ea16770b060bc2617f6f87f6cc4/2_Project_Analysis_Chart3.png)
 
 
 ## 📊 Project Components
